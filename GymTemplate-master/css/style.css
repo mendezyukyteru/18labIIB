@@ -1,0 +1,68 @@
+.Gym{
+	background: url(../images/service2.jpg)fixed no-repeat;
+	webkit-background-size:cover ;
+	moz-background-size:cover;
+	o-background-size:cover;
+	background-size:cover;
+}
+.Gym{
+	margin-left: 0%;
+	padding-left:0%; 
+	padding-right: 0%;
+	padding-top: 0%;
+
+}
+
+h1{
+
+ color:white;
+ text-align: center;
+
+}
+h3{
+
+	color: white;
+	text-align: center;
+}
+h5{
+	color:white;
+	margin: 10px;
+	text-align: center;
+
+}
+h4{
+	text-align: center;
+	color:pink;
+	text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+    width: 130px;
+  
+
+}
+.center{
+	text-align: center;
+    
+  }
+  .informacion{
+  	background: #EC4141;
+  }
+  .dan{
+  	background: #1C1C1C;
+  }
+  .vi{
+      background: #656565;
+  }
+
+  .ra{
+   background:#1C1C1C; 
+  }
+  img{
+  	width: 300px;
+  	height: 300px;
+  }
